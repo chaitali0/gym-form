@@ -1,0 +1,42 @@
+html,body{
+    width: 100%;
+    height: 100%;
+}
+.container1{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+    background-color: aquamarine;
+}
+.container{
+    padding: 35px;
+}
+#demo {
+    background-color: blue;
+    
+     color: aliceblue;
+
+
+}
+h2{
+    color: white;
+    letter-spacing: 1px;
+    margin: 20px;
+}
+p{
+    color:aliceblue;
+    margin: 20px;
+    line-height: 35px;
+}
+button{
+    margin-left: 25px;
+    margin-bottom: 25px;  
+}
+#demo2{
+    background-color: aliceblue;
+    
+    
+}
+#exam{
+    color:blue
+}
